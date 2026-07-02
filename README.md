@@ -4,5 +4,6 @@ This is a little executable that I made with the help of AI that blocks ads from
 
 Logo Designer: MegaNoob101
 
+ONLY WORKS IF TETR.IO IS INSTALLED IN THE DEFAULT PATH!!!
 
 ![LOGO](https://github.com/LibertyPrime27/Simple-Windows-Tetr.io-App-Adblocker/blob/main/Tetr.io%20Ad%20Blocker%20Logo.jpg?raw=true)
